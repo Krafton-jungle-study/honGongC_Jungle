@@ -21,4 +21,3 @@
 17. [사용자 정의 자료형](ch17/README.md) - [dev-diver](https://github.com/dev-diver)
 18. 파일 입출력 - [realbig419](https://github.com/realbig419)
 19. 전처리와 분할 컴파일 - Anyone
-
